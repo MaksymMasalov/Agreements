@@ -5,7 +5,7 @@ To do this, in the terminal of your project, enter the command:
   
     pip install -r requirements.txt
     
-# Brief:
+# Task:
 Необходимо реализовать минималистичное Django приложение с админкой и одним REST методом.
 
 # Description:
