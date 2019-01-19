@@ -7,7 +7,6 @@ To do this, in the terminal of your project, enter the command:
     
 # Brief:
 Необходимо реализовать минималистичное Django приложение с админкой и одним REST методом.
-Важно: перед выполнением прочтите содержимое блока Requirements и выполняйте задачу согласно изложенным требованиям.
 
 # Description:
 
