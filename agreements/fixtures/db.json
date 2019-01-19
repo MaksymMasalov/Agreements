@@ -1,0 +1,1230 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$CPlu6f43AcaH$UNV7yMDNRtLuqdwJvH4vuHEL7rmZ1lb88Oo6CiiaPeM=",
+    "last_login": "2018-10-10T11:08:44.969Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "maximmasalov888@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2018-09-03T18:14:36.754Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$100000$H6gt9oeBpm1q$ED/IL6GJScBgPfupt2a2tQN13H6ezsbKzZqNh/rGJCM=",
+    "last_login": "2018-09-03T19:24:23Z",
+    "is_superuser": false,
+    "username": "Maxim",
+    "first_name": "Maxim",
+    "last_name": "Masalov",
+    "email": "maximmasalov888@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2018-09-03T19:23:14Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$100000$QKTAfwbmdENq$aS9Fme+bp5VNt7YAY3o+ln5KkPcPwXjgLsxGTXOs7d4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Maria",
+    "first_name": "Maria",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2018-09-11T07:30:46Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$100000$A9srOw3SJLGy$BFGgB+YXcnxeRAjqiZENuLGoJg60q0aDgXUO2dsAEuw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Sonya",
+    "first_name": "Sonya",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2018-09-11T09:08:51Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "12ghcg05iwyz4ac36dmlvvjlkiha0vg2",
+  "fields": {
+    "session_data": "Yzc4MDY5OTI5ZGUyZmJjYmVjNmJhZTQwOTg3N2Y2NGU1MjEwNGFlYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZDcxNzQyZjI2NzU5ZWRmMjE3OWU5MDhjOWYxZTkxZWE2YWUxYTNhIn0=",
+    "expire_date": "2018-09-17T18:48:24.169Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hr6onlrrjg55cbv5qk8sgmescub2thfu",
+  "fields": {
+    "session_data": "Yzc4MDY5OTI5ZGUyZmJjYmVjNmJhZTQwOTg3N2Y2NGU1MjEwNGFlYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZDcxNzQyZjI2NzU5ZWRmMjE3OWU5MDhjOWYxZTkxZWE2YWUxYTNhIn0=",
+    "expire_date": "2018-09-25T13:16:05.527Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kbw9w8sw8i8ubbcroujka33yrm8eawiw",
+  "fields": {
+    "session_data": "Yzc4MDY5OTI5ZGUyZmJjYmVjNmJhZTQwOTg3N2Y2NGU1MjEwNGFlYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZDcxNzQyZjI2NzU5ZWRmMjE3OWU5MDhjOWYxZTkxZWE2YWUxYTNhIn0=",
+    "expire_date": "2018-10-02T14:30:31.424Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lomu1bgh1tvik735fkqwrjt55zltx0z0",
+  "fields": {
+    "session_data": "OWQ5ZmQ5YWFiMjhkZWI4ZmNhMDgwYWRjNGUwMzlmNDViNzg0MTQ1ZDp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJmMTJiMGY4OWVjZDEyZDI4NTFkOWUxMTViMDVmNjJiZTFjY2JkNDY2In0=",
+    "expire_date": "2018-10-24T11:08:45.026Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qhqjblcfhhs41nb3zdlvmdrpuwjmdcpx",
+  "fields": {
+    "session_data": "Yzc4MDY5OTI5ZGUyZmJjYmVjNmJhZTQwOTg3N2Y2NGU1MjEwNGFlYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZDcxNzQyZjI2NzU5ZWRmMjE3OWU5MDhjOWYxZTkxZWE2YWUxYTNhIn0=",
+    "expire_date": "2018-09-25T08:34:07.158Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qkgo5okancs79c9qowrhxu0j8do6k57y",
+  "fields": {
+    "session_data": "Yzc4MDY5OTI5ZGUyZmJjYmVjNmJhZTQwOTg3N2Y2NGU1MjEwNGFlYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZDcxNzQyZjI2NzU5ZWRmMjE3OWU5MDhjOWYxZTkxZWE2YWUxYTNhIn0=",
+    "expire_date": "2018-09-26T11:46:23.406Z"
+  }
+},
+{
+  "model": "agreements.country",
+  "pk": 1,
+  "fields": {
+    "code": "UA",
+    "name": "Ukraine"
+  }
+},
+{
+  "model": "agreements.country",
+  "pk": 2,
+  "fields": {
+    "code": "USA",
+    "name": "America"
+  }
+},
+{
+  "model": "agreements.country",
+  "pk": 3,
+  "fields": {
+    "code": "GER",
+    "name": "Germany"
+  }
+},
+{
+  "model": "agreements.company",
+  "pk": 1,
+  "fields": {
+    "name": "FlyAps",
+    "country": 1
+  }
+},
+{
+  "model": "agreements.company",
+  "pk": 2,
+  "fields": {
+    "name": "FlyAps",
+    "country": 2
+  }
+},
+{
+  "model": "agreements.company",
+  "pk": 3,
+  "fields": {
+    "name": "DOU",
+    "country": 1
+  }
+},
+{
+  "model": "agreements.company",
+  "pk": 4,
+  "fields": {
+    "name": "BMW",
+    "country": 3
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 5,
+  "fields": {
+    "start_date": "2018-09-02",
+    "end_date": "2018-09-23",
+    "credit": "77000.00",
+    "debit": "12548.00",
+    "company": 1,
+    "negotiator": 2
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 6,
+  "fields": {
+    "start_date": "2018-08-05",
+    "end_date": "2018-08-31",
+    "credit": "795254.00",
+    "debit": "651265.00",
+    "company": 2,
+    "negotiator": 3
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 7,
+  "fields": {
+    "start_date": "2018-10-01",
+    "end_date": "2018-10-30",
+    "credit": "512300.00",
+    "debit": "152520.00",
+    "company": 4,
+    "negotiator": 4
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 8,
+  "fields": {
+    "start_date": "2018-11-01",
+    "end_date": "2018-11-30",
+    "credit": "20045.44",
+    "debit": "15000.00",
+    "company": 3,
+    "negotiator": 3
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 9,
+  "fields": {
+    "start_date": "2018-09-02",
+    "end_date": "2018-09-30",
+    "credit": "5646546.00",
+    "debit": "5644654.00",
+    "company": 1,
+    "negotiator": 2
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 10,
+  "fields": {
+    "start_date": "2018-12-02",
+    "end_date": "2018-12-31",
+    "credit": "20005.32",
+    "debit": "52156.54",
+    "company": 3,
+    "negotiator": 3
+  }
+},
+{
+  "model": "agreements.agreement",
+  "pk": 11,
+  "fields": {
+    "start_date": "2018-01-01",
+    "end_date": "2018-01-31",
+    "credit": "52410.00",
+    "debit": "621465.00",
+    "company": 4,
+    "negotiator": 2
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 10,
+  "fields": {
+    "agreement": 5,
+    "status": "New",
+    "start_date": "2018-09-10",
+    "end_date": "2018-09-16"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 11,
+  "fields": {
+    "agreement": 6,
+    "status": "Active",
+    "start_date": "2018-08-12",
+    "end_date": "2018-08-19"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 12,
+  "fields": {
+    "agreement": 7,
+    "status": "Active",
+    "start_date": "2018-10-07",
+    "end_date": "2018-10-14"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 13,
+  "fields": {
+    "agreement": 8,
+    "status": "New",
+    "start_date": "2018-11-04",
+    "end_date": "2018-11-11"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 14,
+  "fields": {
+    "agreement": 8,
+    "status": "Active",
+    "start_date": "2018-11-27",
+    "end_date": "2018-11-30"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 15,
+  "fields": {
+    "agreement": 5,
+    "status": "New",
+    "start_date": "2018-09-19",
+    "end_date": "2018-09-22"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 16,
+  "fields": {
+    "agreement": 9,
+    "status": "Active",
+    "start_date": "2018-09-09",
+    "end_date": "2018-09-16"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 17,
+  "fields": {
+    "agreement": 10,
+    "status": "Active",
+    "start_date": "2018-12-09",
+    "end_date": "2018-12-23"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 18,
+  "fields": {
+    "agreement": 11,
+    "status": "Closed",
+    "start_date": "2018-01-07",
+    "end_date": "2018-01-27"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 19,
+  "fields": {
+    "agreement": 11,
+    "status": "New",
+    "start_date": "2018-01-28",
+    "end_date": "2018-01-30"
+  }
+},
+{
+  "model": "agreements.period",
+  "pk": 20,
+  "fields": {
+    "agreement": 9,
+    "status": "New",
+    "start_date": "2018-09-23",
+    "end_date": "2018-09-26"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2018-09-03T18:49:08.947Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2018-09-03T18:50:16.590Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "2",
+    "object_repr": "USA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2018-09-03T18:50:54.551Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "3",
+    "object_repr": "Gemany",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2018-09-03T18:51:22.432Z",
+    "user": 1,
+    "content_type": 2,
+    "object_id": "1",
+    "object_repr": "FlyAps",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2018-09-03T18:51:34.405Z",
+    "user": 1,
+    "content_type": 2,
+    "object_id": "2",
+    "object_repr": "FlyAps",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2018-09-03T18:51:56.754Z",
+    "user": 1,
+    "content_type": 2,
+    "object_id": "3",
+    "object_repr": "DOU",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2018-09-03T18:52:12.201Z",
+    "user": 1,
+    "content_type": 2,
+    "object_id": "4",
+    "object_repr": "BMW",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2018-09-03T18:53:41.140Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "BMW",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (1)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2018-09-03T18:55:24.399Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "2",
+    "object_repr": "FlyAps",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (2)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2018-09-03T18:59:13.377Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "FlyAps",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (3)\"}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (4)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2018-09-03T19:19:34.562Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (5)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2018-09-03T19:20:34.463Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "Period object (5)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2018-09-03T19:20:54.434Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"period\", \"object\": \"Period object (5)\", \"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2018-09-03T19:21:09.629Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "Period object (5)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2018-09-03T19:21:22.433Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "Period object (5)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2018-09-03T19:23:15.158Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Maxim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2018-09-03T19:23:52.239Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Maxim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"first_name\", \"last_name\", \"email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2018-09-03T19:24:29.708Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Maxim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"last_login\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2018-09-09T18:42:19.816Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "BMW Gemany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (None)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2018-09-09T18:43:32.038Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "BMW Gemany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (None)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2018-09-09T18:44:07.545Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "None",
+    "object_repr": "Period object (None)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2018-09-09T18:45:23.912Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "BMW Gemany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (6)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2018-09-09T18:45:42.992Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "6",
+    "object_repr": "Period object (6)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2018-09-09T18:54:47.738Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "BMW Gemany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (7)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2018-09-09T18:55:00.339Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "Period object (7)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2018-09-09T18:56:44.363Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (8)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2018-09-09T18:56:53.291Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"deleted\": {\"name\": \"period\", \"object\": \"Period object (None)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2018-09-09T19:09:13.669Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (9)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2018-09-09T19:09:39.092Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2018-09-09T19:09:48.569Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2018-09-09T19:10:10.112Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "Period object (7)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2018-09-09T19:10:23.339Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "Period object (7)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2018-09-09T19:10:51.922Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2018-09-09T19:10:59.597Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2018-09-09T19:11:34.522Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2018-09-09T19:12:18.823Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Period object (9)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2018-09-09T19:13:00.444Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"deleted\": {\"name\": \"period\", \"object\": \"Period object (None)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2018-09-10T17:27:46.426Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "5",
+    "object_repr": "FlyAps Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (10)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2018-09-10T17:44:04.987Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "3",
+    "object_repr": "Germany",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2018-09-11T07:30:46.798Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Maria",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2018-09-11T08:25:27.056Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Maria",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"first_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2018-09-11T09:08:51.218Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Sonya",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2018-09-11T09:09:05.644Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Sonya",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"first_name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2018-09-11T13:17:18.871Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "6",
+    "object_repr": "FlyAps USA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (11)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2018-09-11T13:18:14.243Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "BMW Germany",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (12)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2018-09-11T13:19:07.921Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (13)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2018-09-19T10:34:49.900Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"credit\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2018-09-19T10:35:09.632Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "3",
+    "object_repr": "Germany",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"code\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2018-09-19T10:36:12.622Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "2",
+    "object_repr": "America",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"code\", \"name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2018-09-19T10:36:23.130Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"code\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2018-09-19T10:37:28.801Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"credit\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2018-09-19T10:51:15.088Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (14)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2018-09-21T20:52:53.028Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"period\", \"object\": \"Period object (13)\", \"fields\": [\"start_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2018-09-21T20:53:27.617Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"period\", \"object\": \"Period object (14)\", \"fields\": [\"end_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2018-09-21T20:55:38.525Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"period\", \"object\": \"Period object (13)\", \"fields\": [\"start_date\"]}}, {\"changed\": {\"name\": \"period\", \"object\": \"Period object (14)\", \"fields\": [\"end_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2018-09-21T20:56:19.116Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "Period object (13)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"start_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2018-09-24T18:18:27.649Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "8",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"period\", \"object\": \"Period object (13)\", \"fields\": [\"start_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2018-09-24T18:18:45.235Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "Period object (13)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"start_date\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2018-09-26T15:03:13.034Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "5",
+    "object_repr": "FlyAps Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (15)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2018-09-26T15:05:17.236Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "9",
+    "object_repr": "FlyAps Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (16)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2018-09-27T18:50:14.623Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "10",
+    "object_repr": "DOU Ukraine",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"period\", \"object\": \"Period object (17)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2018-09-27T19:05:10.211Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "11",
+    "object_repr": "BMW Germany",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2018-09-27T19:10:31.412Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "11",
+    "object_repr": "BMW Germany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (18)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2018-09-29T11:57:44.694Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "11",
+    "object_repr": "BMW Germany",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (19)\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2018-09-29T11:58:29.893Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "11",
+    "object_repr": "BMW Germany",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2018-09-30T18:15:17.020Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "9",
+    "object_repr": "FlyAps Ukraine",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"period\", \"object\": \"Period object (20)\"}}]"
+  }
+}
+]
